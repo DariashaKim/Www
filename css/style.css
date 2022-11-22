@@ -240,7 +240,7 @@ nav.header{
     margin-left: 28px;
     width: 292px;
     height: 238px;
-    background-image: url(img/вяз.jpg);
+    background-image: url(../img/вяз.jpg);
     background-size: 302px 464px;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -263,7 +263,7 @@ nav.header{
     margin-left: 28px;
     width: 292px;
     height: 238px;
-    background-image: url(img/бахрома.png);
+    background-image: url(../img/бахрома.png);
     background-repeat: no-repeat;
     background-size: 100%;
     transition: 1.5s;
@@ -285,7 +285,7 @@ nav.header{
     margin-left: 28px;
     width: 292px;
     height: 238px;
-    background-image: url(img/накидка.png);
+    background-image: url(../img/накидка.png);
     background-repeat: no-repeat;
     background-size: 100%;
     transition: 1.5s;
@@ -327,7 +327,7 @@ nav.header{
 .kurtki{
     width: 393px;
     height: 177px;
-    background-image: url(img/куртки.png);
+    background-image: url(../img/куртки.png);
     margin-left: 58px;
 }
 .textk{
@@ -345,7 +345,7 @@ line-height: 28px;
 .shapki{
     width: 393px;
     height: 177px;
-    background-image: url(img/шапки.png);
+    background-image: url(../img/шапки.png);
     margin-left: 58px;
 }
 .shapki1{
@@ -355,7 +355,7 @@ line-height: 28px;
 .botinki{
     width: 393px;
     height: 177px;
-    background-image: url(img/ботинки.png);
+    background-image: url(../img/ботинки.png);
     margin-left: 58px;
     margin-right: 38px;
 }
@@ -402,7 +402,7 @@ line-height: 28px;
 .kartinka{
     width: 222px;
     height: 223px;
-    background-image: url(img/брюки.jpg);
+    background-image: url(../img/брюки.jpg);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -448,7 +448,7 @@ line-height: 28px;
 .kartinka2{
     width: 222px;
     height: 223px;
-    background-image: url(img/водолазка.jpg);
+    background-image: url(../img/водолазка.jpg);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -488,7 +488,7 @@ line-height: 28px;
 .kartinka3{
     width: 222px;
     height: 223px;
-    background-image: url(img/пальто.png);
+    background-image: url(../img/пальто.png);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -529,7 +529,7 @@ line-height: 28px;
 .kartinka4{
     width: 222px;
     height: 223px;
-    background-image: url(img/топ.jpg);
+    background-image: url(../img/топ.jpg);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -575,7 +575,7 @@ line-height: 28px;
 .kartinka5{
     width: 222px;
     height: 223px;
-    background-image: url(img/дубл.jpg);
+    background-image: url(../img/дубл.jpg);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -615,7 +615,7 @@ line-height: 28px;
 .kartinka6{
     width: 222px;
     height: 223px;
-    background-image: url(img/куркта.jpg);
+    background-image: url(../img/куркта.jpg);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -655,7 +655,7 @@ line-height: 28px;
 .kartinka7{
     width: 222px;
     height: 223px;
-    background-image: url(img/одежда\ костюм.png);
+    background-image: url(../img/одежда\ костюм.png);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -696,7 +696,7 @@ line-height: 28px;
 .kartinka8{
     width: 222px;
     height: 223px;
-    background-image: url(img/платье.png);
+    background-image: url(../img/платье.png);
     background-repeat: no-repeat;
     background-size: 222px 224px ;
 }
@@ -1129,7 +1129,7 @@ footer{
         margin-left: 18px;
         width: 169px;
         height: 115px;
-        background-image: url(img/вяз.jpg);
+        background-image: url(../img/вяз.jpg);
         background-repeat: no-repeat;
         background-size: 100%;
         transition: 1.5s;
@@ -1151,7 +1151,7 @@ footer{
         margin-left: 18px;
         width: 169px;
         height: 115px;
-        background-image: url(img/бахрома.png);
+        background-image: url(../img/бахрома.png);
         background-repeat: no-repeat;
         background-size: 100%;
         transition: 1.5s;
@@ -1173,7 +1173,7 @@ footer{
         margin-left: 18px;
         width: 169px;
         height: 115px;
-        background-image: url(img/накидка.png);
+        background-image: url(../img/накидка.png);
         background-repeat: no-repeat;
         background-size: 100%;
         transition: 1.5s;
@@ -1215,7 +1215,7 @@ footer{
     .kurtki{
         width: 229px;
         height: 132px;
-        background-image: url(img/куртки.png);
+        background-image: url(../img/куртки.png);
         background-repeat: no-repeat;
         margin-left: 28px;
     }
@@ -1234,7 +1234,7 @@ footer{
     .shapki{
         width: 229px;
         height: 132px;
-        background-image: url(img/шапки.png);
+        background-image: url(../img/шапки.png);
         background-repeat: no-repeat;
         background-size: 280px 132px;
         background-position: -40px;
@@ -1247,7 +1247,7 @@ footer{
     .botinki{
         width: 229px;
         height: 132px;
-        background-image: url(img/ботинки.png);
+        background-image: url(../img/ботинки.png);
         background-size: 229px 132px;
         margin-left: 30px;
         margin-right: 38px;
@@ -1295,7 +1295,7 @@ footer{
     .kartinka{
         width: 222px;
         height: 223px;
-        background-image: url(img/брюки.jpg);
+        background-image: url(../img/брюки.jpg);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1341,7 +1341,7 @@ footer{
     .kartinka2{
         width: 222px;
         height: 223px;
-        background-image: url(img/водолазка.jpg);
+        background-image: url(../img/водолазка.jpg);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1382,7 +1382,7 @@ footer{
     .kartinka3{
         width: 222px;
         height: 223px;
-        background-image: url(img/пальто.png);
+        background-image: url(../img/пальто.png);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1423,7 +1423,7 @@ footer{
     .kartinka4{
         width: 222px;
         height: 223px;
-        background-image: url(img/топ.jpg);
+        background-image: url(../img/топ.jpg);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1469,7 +1469,7 @@ footer{
     .kartinka5{
         width: 222px;
         height: 223px;
-        background-image: url(img/дубл.jpg);
+        background-image: url(../img/дубл.jpg);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1509,7 +1509,7 @@ footer{
     .kartinka6{
         width: 222px;
         height: 223px;
-        background-image: url(img/куркта.jpg);
+        background-image: url(../img/куркта.jpg);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1550,7 +1550,7 @@ footer{
     .kartinka7{
         width: 222px;
         height: 223px;
-        background-image: url(img/одежда\ костюм.png);
+        background-image: url(../img/одежда\ костюм.png);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
@@ -1591,7 +1591,7 @@ footer{
     .kartinka8{
         width: 222px;
         height: 223px;
-        background-image: url(img/платье.png);
+        background-image: url(../img/платье.png);
         background-repeat: no-repeat;
         background-size: 222px 224px ;
     }
